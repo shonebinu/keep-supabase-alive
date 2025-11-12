@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Penweave",
+    "supabase_url": "https://uegbhkzmccecqnazkhki.supabase.co",
+    "supabase_key_env": "SUPABASE_PENWEAVE",
+    "table_name": "keep-alive"
+  }
+]
