@@ -2,7 +2,7 @@
   {
     "name": "Penweave",
     "supabase_url": "https://uegbhkzmccecqnazkhki.supabase.co",
-    "supabase_key_env": "SUPABASE_PENWEAVE",
+    "supabase_key_env": "SUPABASE_KEY_1",
     "table_name": "keep-alive"
   }
 ]
